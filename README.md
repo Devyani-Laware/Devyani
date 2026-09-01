@@ -76,6 +76,6 @@ data into evidence-backed executive insights.
 
 ## 📫 Connect
 
-LinkedIn: [Your LinkedIn]
+LinkedIn: linkedin.com/in/devyani-laware
 
-Email: [Professional Email]
+Email: devyanilaware@gmail.com
